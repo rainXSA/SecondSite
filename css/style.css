@@ -1,0 +1,167 @@
+body{
+    font-family: 'Epilogue', sans-serif;
+    width: 1440px;
+    
+
+}
+
+.header{
+    color: aliceblue;
+}
+
+.blogful{
+    background-color:#2B2B2B;
+    width: 1440px;
+    max-width: 1440px;
+    height: 80px;
+    max-height: 80px;
+    display: flex;
+    text-decoration: none;
+
+    
+    
+}
+ 
+
+.blogful-1{
+    padding-left: 40px;
+    padding-top: 30px;
+    color: aliceblue;
+    text-decoration: none;
+
+
+}
+
+.blogful-1:hover{
+    text-decoration: underline;
+
+}
+
+.blogful-2{
+    color: aliceblue;
+    padding-top: 30px;
+    margin-left: 120px;
+    text-decoration: none;
+    padding-bottom: 22px;
+}
+
+.blogful-2:hover{
+    text-decoration: underline;
+
+}
+
+.blogful-3{
+    color: aliceblue;
+    padding-top: 30px;
+    margin-left: 60px;
+    text-decoration: none;
+}
+
+.blogful-3:hover{
+    text-decoration: underline;
+
+}
+
+
+.blogful-4{
+    color: aliceblue;
+    padding-top: 30px;
+    margin-left: 60px;
+    text-decoration: none;
+}
+
+.blogful-4:hover{
+    text-decoration: underline;
+
+}
+
+.blogful-5{
+    color: aliceblue;
+    padding-top: 30px;
+    margin-left: 60px;
+    text-decoration: none;
+}
+
+.blogful-5:hover{
+    text-decoration: underline;
+
+}
+
+.blogful-6{
+    padding-top: 28px;
+    padding-bottom: 22px;
+    margin-left: 60px;
+}
+
+.blogful-6:hover{
+    text-decoration: underline;
+
+}
+
+.blogful-7{
+    margin-left: 667px;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    
+
+}
+
+.content{
+    font-size: 24px;
+    padding-left: 200px;
+    padding-top: 160px;
+}
+
+.chip-image{
+    padding-right: 1125px;
+    padding-top: 20px;
+}
+
+.info{
+    color: #2B2B2B;
+    font-size: 16px;
+    opacity: 60%;
+}
+
+.zag-2{
+    font-size: 24px;
+    color: #2B2B2B;
+}
+
+.par-1{
+    opacity: 60%;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.learn-1{
+    font-size: 12px;
+    color: #3892B5;
+}
+
+.content-1{
+    height: 300px;
+    width: 470px;
+    padding-left: 220px;
+    
+}
+
+.header-2{
+    display: flex;
+}
+
+.content-3{
+    width: 400px;
+    padding-left: 200px;
+}
+
+.content-4{
+    width: 400px;
+    padding-left: 60px;
+}
+
+.chip-image2{
+    width: 95px;
+}
+
+
